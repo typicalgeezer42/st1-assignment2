@@ -1,0 +1,1 @@
+**I'm not sure why some of the tables and pngs are showing or comeup really bugged, they were just converted from .docx to .md. Please just download the Docx if you need to see them properly formatted as everthing works there.**

@@ -1,3 +1,6 @@
+# THIS WAS COVERTED FROM .DOCX  SO TABLES HAVE NOT CONVERTED PROPERLY, SEE THE DOCX FILE FOR THE PROPER TABLES
+
+
 # Assignment 2 Case Study Stage 2 Tutorial From Problems to Requirements 
 
 ### Week 5 | 60 minutes 
